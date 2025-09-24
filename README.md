@@ -1,4 +1,4 @@
-# DML - Dynamic Meta-Learning for Adaptive XGBoost-Neural Ensembles
+# Dynamic Meta-Learning for Adaptive XGBoost-Neural Ensembles
 
 A modular implementation of the Dynamic Meta-Learning for Adaptive XGBoost-Neural Ensembles framework for enhanced predictive modeling.
 
